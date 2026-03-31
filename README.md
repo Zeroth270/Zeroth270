@@ -44,7 +44,7 @@
 <p align="center">🛠️ Technical Arsenal</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,spring,fastapi,mysql,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,java,python,spring,fastapi,mysql,mongodb,docker,git,github,postman" />
 </p>
 
 ---
