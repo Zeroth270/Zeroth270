@@ -1,13 +1,35 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">💻 Backend Developer | 🤖 AI Enthusiast | 🚀 Future ML Engineer</h3>
 
+---
+
+## 🔥 My GitHub Streak (Top Highlight)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Spring+Boot+Developer;Python+for+AI;FastAPI+Learner;Open+Source+Enthusiast&center=true&width=500&height=50">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeroth270&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats + Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeroth270&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeroth270&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Graph (Like your screenshot)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeroth270&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🧠 About Me  
+
 - 🎓 B.Tech CSE (2nd Year)  
 - 💻 Backend Developer (Spring Boot)  
 - 🐍 Learning Python for AI  
@@ -19,9 +41,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,spring,fastapi,mysql,docker,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,fastapi,mysql,docker,git,github" />
 </p>
 
 ---
@@ -32,23 +52,6 @@
 - Smart food redistribution system  
 - Admin dashboard for monitoring  
 - Built with Spring Boot + MySQL  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeroth270&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeroth270&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeroth270&theme=tokyo-night" />
-</p>
 
 ---
 
