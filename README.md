@@ -1,4 +1,4 @@
-<p align="center">Hi 👋, I'm Sahil</p>
+<h1 align="center">Hi 👋, I'm Sahil</h1>
 
 <h3 align="center">💻 Backend Developer | 🤖 AI Enthusiast | 🚀 Future ML Engineer</h3>
 
