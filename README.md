@@ -3,7 +3,7 @@
 <h3 align="center">💻 Backend Developer | 🤖 AI Enthusiast | 🚀 Future ML Engineer</h3>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DZeroth270%26theme%3Dtokyonight%26no-bg%3Dtrue%26margin-w%3D15%26column%3D5" />
+<img src="https://github-profile-trophy.vercel.app/?username=Zeroth270&theme=tokyonight&no-bg=true&margin-w=15&column=5" />
 </p>
 
 <p align="center">🔥 Consistency Hub</p>
@@ -12,8 +12,14 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeroth270&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- ✅ NEW: Contribution Snake (LIVE ACTIVITY STYLE) -->
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DZeroth270%26theme%3Dtokyo-night%26hide_border%3Dtrue%26area%3Dtrue" />
+<img src="https://github.com/Zeroth270/Zeroth270/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<!-- ✅ FIXED GRAPH -->
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeroth270&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">📊 GitHub Analytics</p>
@@ -29,30 +35,36 @@
 <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,fastapi,mysql,docker,git,github" />
 </p>
 
-🧠 About Me
+---
 
-🎓 Education: B.Tech CSE (2nd Year)
+## 🧠 About Me
 
-💻 Expertise: Backend Engineering with Spring Boot - 🤖 Current Focus: Python for AI/ML & FastAPI
+🎓 B.Tech CSE (2nd Year)  
+💻 Backend Engineering with Spring Boot  
+🤖 Python for AI/ML & FastAPI  
+🏆 SIH Finalist 2024  
 
-🏆 Achievement: SIH Finalist 2024
+---
 
-🚀 Featured Project
+## 🚀 Featured Project
 
-🍱 Food Saver (SIH Project)
+🍱 Food Saver (SIH Project)  
+Smart food redistribution system with scalable backend (Spring Boot + MySQL)
 
-Smart food redistribution system reducing waste via intelligent logistics. Built with a heavy focus on backend scalability and reliable data persistence using Spring Boot + MySQL.
+---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
+
+---
 
 <p align="center">
 <i>"I build scalable backend systems today to power intelligent AI systems tomorrow"</i>
