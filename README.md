@@ -26,10 +26,6 @@
 </tr>
 </table>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Zeroth270/Zeroth270/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 <p align="center">📊 GitHub Analytics</p>
