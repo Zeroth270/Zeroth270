@@ -50,7 +50,7 @@
 🎓 B.Tech CSE (2nd Year)  
 💻 Backend Engineering with Spring Boot  
 🤖 Python for AI/ML & FastAPI  
-🏆 SIH Finalist 2024  
+🏆 SIH Finalist 2025  
 
 ---
 
