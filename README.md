@@ -40,8 +40,7 @@
 <p align="center">🛠️ Technical Arsenal</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,java,python,spring,fastapi,mysql,mongodb,docker,git,github,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,java,python,spring,fastapi,mysql,postgresql,mongodb,docker,git,github,postman" /></p>
 
 ---
 
